@@ -5,3 +5,6 @@ seaborn
 scikit-learn
 scipy
 spacy
+flask
+flask_sqlalchemy
+mysqlclient
