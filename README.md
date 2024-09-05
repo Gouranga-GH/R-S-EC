@@ -12,7 +12,6 @@ This repository contains the implementation of a **content-based recommendation 
 - [Usage](#usage)
 - [Exploring Recommendation Systems](#exploring-recommendation-systems)
 - [Screenshots](#screenshots)
-- [Contributing](#contributing)
 - [License](#license)
 
 ## Project Overview
