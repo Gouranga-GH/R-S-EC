@@ -1,5 +1,5 @@
 
-# MyBay Shopping - Product Recommendation System
+# MyBay Shopping App - Product Recommendation System
 
 This repository contains the implementation of a **content-based recommendation system** for a shopping web application named **MyBay**. The web application is developed using **Flask**, **SQLAlchemy** for database management, and various **machine learning** techniques for product recommendations. It also includes user authentication (sign-up/sign-in) and product exploration functionality.
 
