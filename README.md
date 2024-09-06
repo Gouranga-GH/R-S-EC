@@ -99,9 +99,16 @@ To experiment with different recommendation systems, you can explore the **Jupyt
 4. **Rating-Based Recommendation**: Initial recommendations to the users based on top rated products.
 5. **Hybrid Model**: Combines content-based filtering and collaborative filtering for better recommendations.
 
-## Screenshots
+## App Images
 
-### > Refer the "screenshots" folder
+![img 1](screenshots/Homepage_Top.png)
+
+![img 2](screenshots/Homepage_Bottom.png)
+
+![img 3](screenshots/Recommendations_Page_Whole.png)
+
+![img 4](screenshots/Recommendations_Page_Products_Page_Zoomed_Out.png)
+
 
 
 ## License
